@@ -1,12 +1,10 @@
 ## 👋 Hi there, I'm @HeftigerHase123 🐰
 
-<hr>
 Welcome to my GitHub Profile. I'm a programming apprentice from Switzerland.
 <br>
 I'm in my secound year of apprenticeship.
 
 ## ️🛠️ Skills & Tools
-<hr>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
